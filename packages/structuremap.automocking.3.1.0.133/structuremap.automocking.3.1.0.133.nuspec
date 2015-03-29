@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>structuremap.automocking</id>
+    <version>3.1.0.133</version>
+    <authors>Jeremy D. Miller</authors>
+    <owners>Jeremy D. Miller</owners>
+    <licenseUrl>https://github.com/structuremap/structuremap/raw/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>http://structuremap.github.io</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>StructureMap AutoMocker for RhinoMocks</description>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="StructureMap" version="3.0.0" />
+      <dependency id="RhinoMocks" version="3.6.1" />
+    </dependencies>
+  </metadata>
+</package>
